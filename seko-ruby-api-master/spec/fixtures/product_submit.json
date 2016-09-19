@@ -1,0 +1,15 @@
+{
+  "Request": {
+    "List": {
+      "SupplierMapping": {
+        "SupplierCode": "Supplier1",
+        "SupplierDescription": "My Supplier",
+        "UOM": 1
+      }
+    },
+    "ProductMaster": {
+      "ProductCode": 123456,
+      "ProductDescription": "A Test Product"
+    }
+  }
+}
